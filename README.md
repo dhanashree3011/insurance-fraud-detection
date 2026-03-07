@@ -15,9 +15,9 @@ Insurance fraud costs the industry billions annually. The number of fraud cases 
 
 ---
 
-##  Live Demo
+##  Demo Video
 
-**[Try the App](https://your-streamlit-app-url.streamlit.app)**
+**https://drive.google.com/drive/folders/1160c7L1HLteeSgskSMXzZNBPMmGy0ZBU?usp=sharing**
 
 ---
 
